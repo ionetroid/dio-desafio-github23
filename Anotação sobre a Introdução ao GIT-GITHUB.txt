@@ -1,0 +1,5 @@
+IMPORTANTE LEMBRAR: fazer a transição da máquina para nuvem e vice-versa
+
+1. git commit -m 
+2. git push origin main
+3. git git clone [url do repositório]
