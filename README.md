@@ -1,2 +1,2 @@
 # dio-desafio-github23
-Primeiro repositório no desafio de projetos - 2023
+Primeiro repositório no desafio de projetos - 2023 DIO.me
